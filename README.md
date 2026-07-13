@@ -53,6 +53,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ayushmath07/dsa/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushmath07/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
