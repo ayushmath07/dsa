@@ -5,6 +5,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/ayushmath07/dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushmath07/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushmath07/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushmath07/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmath07/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -56,6 +58,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmath07/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushmath07/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushmath07/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
