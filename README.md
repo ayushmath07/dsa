@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushmath07/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -56,6 +58,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
