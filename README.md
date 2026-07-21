@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/ayushmath07/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushmath07/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushmath07/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
