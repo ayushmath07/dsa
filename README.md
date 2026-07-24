@@ -9,6 +9,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/ayushmath07/dsa/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/ayushmath07/dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushmath07/dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -185,6 +186,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/ayushmath07/dsa/tree/master/0986-interval-list-intersections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushmath07/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -208,4 +210,8 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushmath07/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayushmath07/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ayushmath07/dsa/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
