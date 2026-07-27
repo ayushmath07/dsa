@@ -10,6 +10,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushmath07/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ayushmath07/dsa/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/ayushmath07/dsa/tree/master/1260-shift-2d-grid) |
@@ -213,12 +214,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushmath07/dsa/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
