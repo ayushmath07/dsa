@@ -110,6 +110,7 @@
 | [0020-valid-parentheses](https://github.com/ayushmath07/dsa/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushmath07/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmath07/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayushmath07/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayushmath07/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -219,6 +220,7 @@
 | [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushmath07/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
