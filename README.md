@@ -11,6 +11,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushmath07/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ayushmath07/dsa/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/ayushmath07/dsa/tree/master/1260-shift-2d-grid) |
@@ -185,6 +186,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmath07/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushmath07/dsa/tree/master/3620-network-recovery-pathways) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushmath07/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushmath07/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmath07/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmath07/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
