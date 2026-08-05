@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushmath07/dsa/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ayushmath07/dsa/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/ayushmath07/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushmath07/dsa/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ayushmath07/dsa/tree/master/0071-simplify-path) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
