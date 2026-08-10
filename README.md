@@ -195,6 +195,7 @@
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmath07/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushmath07/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -211,6 +212,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushmath07/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushmath07/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmath07/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmath07/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -294,4 +296,21 @@
 | ------- |
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
