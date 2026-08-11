@@ -282,10 +282,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ayushmath07/dsa/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushmath07/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ayushmath07/dsa/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushmath07/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
