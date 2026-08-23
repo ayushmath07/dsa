@@ -119,6 +119,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayushmath07/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushmath07/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/ayushmath07/dsa/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushmath07/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushmath07/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushmath07/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1927-sum-game](https://github.com/ayushmath07/dsa/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmath07/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushmath07/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayushmath07/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -225,6 +227,7 @@
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/ayushmath07/dsa/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushmath07/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushmath07/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmath07/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -317,6 +320,7 @@
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/ayushmath07/dsa/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
