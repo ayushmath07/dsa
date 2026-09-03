@@ -5,6 +5,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmath07/dsa/tree/master/0057-insert-interval) |
+| [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushmath07/dsa/tree/master/0724-find-pivot-index) |
@@ -359,4 +361,8 @@
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushmath07/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushmath07/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
