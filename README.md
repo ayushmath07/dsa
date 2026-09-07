@@ -157,6 +157,7 @@
 | [0383-ransom-note](https://github.com/ayushmath07/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/ayushmath07/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushmath07/dsa/tree/master/1189-maximum-number-of-balloons) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ayushmath07/dsa/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ayushmath07/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
