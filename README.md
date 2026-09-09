@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ayushmath07/dsa/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmath07/dsa/tree/master/0057-insert-interval) |
 | [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ayushmath07/dsa/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/ayushmath07/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
@@ -203,6 +205,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ayushmath07/dsa/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/ayushmath07/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmath07/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
