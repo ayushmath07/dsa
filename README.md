@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmath07/dsa/tree/master/0057-insert-interval) |
 | [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushmath07/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@
 | [0383-ransom-note](https://github.com/ayushmath07/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushmath07/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ayushmath07/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmath07/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushmath07/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
