@@ -6,6 +6,7 @@
 | [0036-valid-sudoku](https://github.com/ayushmath07/dsa/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmath07/dsa/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmath07/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushmath07/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ayushmath07/dsa/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmath07/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushmath07/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
