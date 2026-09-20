@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmath07/dsa/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmath07/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/ayushmath07/dsa/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/ayushmath07/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushmath07/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayushmath07/dsa/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/ayushmath07/dsa/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/ayushmath07/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushmath07/dsa/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/ayushmath07/dsa/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushmath07/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushmath07/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/ayushmath07/dsa/tree/master/1288-remove-covered-intervals) |
