@@ -88,6 +88,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ayushmath07/dsa/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushmath07/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushmath07/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -339,6 +340,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ayushmath07/dsa/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ayushmath07/dsa/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushmath07/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushmath07/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
