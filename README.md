@@ -47,6 +47,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayushmath07/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushmath07/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayushmath07/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/ayushmath07/dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushmath07/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushmath07/dsa/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushmath07/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -257,6 +258,7 @@
 | [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ayushmath07/dsa/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmath07/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/ayushmath07/dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushmath07/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -286,6 +288,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushmath07/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayushmath07/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayushmath07/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/ayushmath07/dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushmath07/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayushmath07/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushmath07/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
