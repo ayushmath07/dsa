@@ -33,6 +33,7 @@
 | [1872-stone-game-viii](https://github.com/ayushmath07/dsa/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmath07/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushmath07/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushmath07/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmath07/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2848-points-that-intersect-with-cars](https://github.com/ayushmath07/dsa/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushmath07/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,6 +234,7 @@
 | [0835-image-overlap](https://github.com/ayushmath07/dsa/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ayushmath07/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushmath07/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmath07/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushmath07/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -258,6 +260,7 @@
 | [1406-stone-game-iii](https://github.com/ayushmath07/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayushmath07/dsa/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ayushmath07/dsa/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushmath07/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmath07/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/ayushmath07/dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushmath07/dsa/tree/master/3620-network-recovery-pathways) |
@@ -430,4 +433,5 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushmath07/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushmath07/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
