@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ayushmath07/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayushmath07/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushmath07/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -181,6 +182,7 @@
 | [0383-ransom-note](https://github.com/ayushmath07/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushmath07/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushmath07/dsa/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ayushmath07/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushmath07/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -255,6 +257,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ayushmath07/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmath07/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/ayushmath07/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ayushmath07/dsa/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushmath07/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmath07/dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -336,6 +339,7 @@
 | [0020-valid-parentheses](https://github.com/ayushmath07/dsa/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayushmath07/dsa/tree/master/0071-simplify-path) |
 | [0503-next-greater-element-ii](https://github.com/ayushmath07/dsa/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayushmath07/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ayushmath07/dsa/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushmath07/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmath07/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -434,6 +438,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ayushmath07/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushmath07/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushmath07/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushmath07/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
