@@ -37,6 +37,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushmath07/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmath07/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2848-points-that-intersect-with-cars](https://github.com/ayushmath07/dsa/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushmath07/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushmath07/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushmath07/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushmath07/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -76,6 +77,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ayushmath07/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayushmath07/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2848-points-that-intersect-with-cars](https://github.com/ayushmath07/dsa/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushmath07/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushmath07/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushmath07/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushmath07/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -155,6 +157,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushmath07/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/ayushmath07/dsa/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushmath07/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushmath07/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushmath07/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushmath07/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -367,6 +370,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ayushmath07/dsa/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ayushmath07/dsa/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushmath07/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushmath07/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushmath07/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayushmath07/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
